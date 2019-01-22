@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 65 65" width="65" height="65">
+	<rect width="100%" height="100%" fill="#BC4B51" />
+	<polygon style="fill:#31393C;" points="5,5 10,5 10,60 5,60" />
+	<polygon style="fill:#31393C;" points="5,30 30,30 30,35 5,35" />
+	<polygon style="fill:#31393C;" points="25,5 30,5 30,60 25,60" />
+	<polygon style="fill:#31393C;" points="35,5 60,5 35,60" />
+</svg>
